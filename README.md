@@ -1,4 +1,4 @@
-![OpenClassrooms Certifications Banner](assets/banner.png)
+![OpenClassrooms Certifications Banner](asset/banner.png)
 
 # 🎓 OpenClassrooms Certifications
 
